@@ -5,7 +5,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/saeedmfat/flask-docker-app?style=social)](https://github.com/saeedmfat/flask-docker-app/stargazers)
 [![GitHub Commits](https://img.shields.io/github/commit-activity/m/saeedmfat/flask-docker-app)](https://github.com/saeedmfat/flask-docker-app/commits/main)
 
-A production-ready "Hello World" Flask application containerized with Docker, featuring Python 3.12 and best practices.
+A practical "Hello World" Flask application containerized with Docker, featuring Python 3.12 .
 
 
 ## 🌟 Features
