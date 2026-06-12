@@ -50,11 +50,3 @@ Then visit: http://localhost:5000
 `Port 5000 in use` | Use `-p 5001:5000` instead
 `Docker build fails` | Check Python version compatibility
 `No response from app` | View logs: `docker logs <container-id>`
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
